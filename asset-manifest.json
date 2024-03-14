@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Faculty-Tracking-App/static/css/main.fb1deaba.css",
+    "main.js": "/Faculty-Tracking-App/static/js/main.f7417213.js",
+    "static/js/453.266a87b8.chunk.js": "/Faculty-Tracking-App/static/js/453.266a87b8.chunk.js",
+    "static/media/logo.svg": "/Faculty-Tracking-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Faculty-Tracking-App/index.html",
+    "main.fb1deaba.css.map": "/Faculty-Tracking-App/static/css/main.fb1deaba.css.map",
+    "main.f7417213.js.map": "/Faculty-Tracking-App/static/js/main.f7417213.js.map",
+    "453.266a87b8.chunk.js.map": "/Faculty-Tracking-App/static/js/453.266a87b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb1deaba.css",
+    "static/js/main.f7417213.js"
+  ]
+}
